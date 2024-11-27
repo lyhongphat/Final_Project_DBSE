@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35507.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassportRenewal_DBSE", "PassportRenewal_DBSE.csproj", "{4DF46E13-930A-4274-A195-97F46715081C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DF46E13-930A-4274-A195-97F46715081C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DF46E13-930A-4274-A195-97F46715081C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DF46E13-930A-4274-A195-97F46715081C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DF46E13-930A-4274-A195-97F46715081C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF15789B-6866-4925-922B-32466311A6F8}
+	EndGlobalSection
+EndGlobal
